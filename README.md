@@ -24,6 +24,6 @@ A Day in Hospital is a dataset about patient satisfaction surveys based on 10 se
 - All 10 metrics showed a consistent downward trend (minor) during the most recent two years, indicating a gradual deterioration in overall patient experience nationwide.
 
 **5.Business Recommendations**
-- Prioritize intervention efforts in the bottom 30% of states with the lowest survey response rates and establish a target of at least 500 patient responses per year to improve data reliability.
+- Prioritize the bottom 30% of states with the lowest survey response rates and establish a target of at least 500 responses/year per state to improve data reliability.
 - Implement nationwide patient-care service improvement and staff training programs if the downward trend across all satisfaction metrics continues over the next 1–2 years.
-- Develop targeted action plans for states performing worst in the three lowest-rated service dimensions, focusing resources on the specific areas identified in the analysis.
+- Develop targeted action plans for states performing worst in the three lowest-rated service dimensions, focusing resources on the specific areas identified in the analysis (details in report).
